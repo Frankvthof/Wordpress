@@ -11,6 +11,8 @@
  * @since 1.0.0
  */
 
+echo 'Dit is een test Weet je het zeker Weer een nieuwe';
+
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
